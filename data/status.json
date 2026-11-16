@@ -1,7 +1,7 @@
 {
  "ok": true,
- "checked_at": "2026-11-15T09:49:50+09:00",
- "message": "535件の月例会を取り込みました",
+ "checked_at": "2026-11-16T09:49:18+09:00",
+ "message": "533件の月例会を取り込みました",
  "warnings": [
   "form https://forms.gle/rkGwRFgBu8iCYAuB6: HTTP Error 401: Unauthorized",
   "form https://forms.gle/78gtirS9o11VxWyM6: HTTP Error 401: Unauthorized",
@@ -9,9 +9,9 @@
   "form https://forms.gle/b49rZ6rxVfA5y2mW7: HTTP Error 401: Unauthorized",
   "form https://forms.gle/cpytKDVKZ3Sfw7KR9: list index out of range"
  ],
- "events": 535,
- "branches": 535,
+ "events": 533,
+ "branches": 533,
  "failed_details": 0,
- "google_forms": 153,
- "forms_readable": 148
+ "google_forms": 154,
+ "forms_readable": 149
 }
