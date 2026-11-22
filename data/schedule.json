@@ -1,30 +1,6 @@
 {
- "generated_at": "2026-11-21T10:59:50+09:00",
+ "generated_at": "2026-11-22T10:00:10+09:00",
  "events": [
-  {
-   "date": "2026-11-21",
-   "time": "18:00",
-   "name": "時感",
-   "url": "https://nm2014.jp/shibu/mt232819/",
-   "area": "ネット(東京)",
-   "stars": 2
-  },
-  {
-   "date": "2026-11-21",
-   "time": "10:00",
-   "name": "だんじり",
-   "url": "https://nm2014.jp/shibu/mt232820/",
-   "area": "大阪府",
-   "stars": 0
-  },
-  {
-   "date": "2026-11-21",
-   "time": "14:30",
-   "name": "DX",
-   "url": "https://nm2014.jp/shibu/mt232821/",
-   "area": "東京都",
-   "stars": 1
-  },
   {
    "date": "2026-11-22",
    "time": "09:30",
@@ -3873,50 +3849,6 @@
    "apply_mailto_link": false,
    "apply_type": "google",
    "apply_target": "https://forms.gle/X1hjf5bH5Myf1SZ66"
-  },
-  "https://nm2014.jp/shibu/mt232819/": {
-   "date": "2026-11-21",
-   "deadline_text": "2日前\n\n ※ゲストの方の参加申し込み締切は、3日前となります。",
-   "deadline_days": 2,
-   "guest_deadline_days": 3,
-   "apply_urls": [
-    "https://forms.gle/N1f5LQyRVQFQS6fn7"
-   ],
-   "apply_note": "会員・役員の方は下記リンクより、役員へ直接お申し込みください。\nhttps://forms.gle/N1f5LQyRVQFQS6fn7",
-   "apply_mail": false,
-   "apply_mailto_link": false,
-   "apply_type": "google",
-   "apply_target": "https://forms.gle/N1f5LQyRVQFQS6fn7"
-  },
-  "https://nm2014.jp/shibu/mt232820/": {
-   "date": "2026-11-21",
-   "station": "泉大津",
-   "deadline_text": "24時間前\n\n ※ゲストの方の参加申し込み締切は、3日前となります。",
-   "deadline_days": 1,
-   "guest_deadline_days": 3,
-   "apply_urls": [
-    "https://forms.gle/3Dov5h4NKE7oVF998"
-   ],
-   "apply_note": "会員・役員の方は下記リンクより、役員へ直接お申し込みください。\nhttps://forms.gle/3Dov5h4NKE7oVF998",
-   "apply_mail": false,
-   "apply_mailto_link": false,
-   "apply_type": "google",
-   "apply_target": "https://forms.gle/3Dov5h4NKE7oVF998"
-  },
-  "https://nm2014.jp/shibu/mt232821/": {
-   "date": "2026-11-21",
-   "station": "上野",
-   "deadline_text": "7日前\n\n ※ゲストの方の参加申し込み締切は、3日前となります。",
-   "deadline_days": 7,
-   "guest_deadline_days": 3,
-   "apply_urls": [
-    "https://tally.so/r/mOLARa"
-   ],
-   "apply_note": "会員・役員の方は下記リンクより、役員へ直接お申し込みください。\nhttps://tally.so/r/mOLARa",
-   "apply_mail": false,
-   "apply_mailto_link": false,
-   "apply_type": "form",
-   "apply_target": "https://tally.so/r/mOLARa"
   },
   "https://nm2014.jp/shibu/mt232822/": {
    "date": "2026-11-22",
@@ -10981,260 +10913,6 @@
      "entry": 1213975443,
      "required": false,
      "options": []
-    }
-   ]
-  },
-  "https://forms.gle/N1f5LQyRVQFQS6fn7": {
-   "action": "https://docs.google.com/forms/d/e/1FAIpQLScAj4hrD8HbcP1uFDmXju1ohKyObDitn8qHJWuhJrEx3N_7Bw/viewform",
-   "fields": [
-    {
-     "title": "メールアドレス*",
-     "type": 0,
-     "entry": 877086558,
-     "required": true,
-     "options": []
-    },
-    {
-     "title": "参加希望日（毎月第3土曜日 18:00~20:00）*\n時感術支部はオンライン開催です。",
-     "type": 2,
-     "entry": 1498135098,
-     "required": true,
-     "options": [
-      "2026年9月19日(土)@オンライン",
-      "2026年10月17日(土)@オンライン",
-      "2026年11月21日(土)@オンライン",
-      "2026年12月19日(土)@オンライン",
-      "2027年1月16日(土)@オンライン"
-     ]
-    },
-    {
-     "title": "NM ID会員番号（必ずご記入ください）　※NM〇〇〇〇←数字が入ります。本部からのメールに記載されています。NMを入れず、数字のみでご記入ください",
-     "type": 0,
-     "entry": 1424661284,
-     "required": true,
-     "options": []
-    },
-    {
-     "title": "姓*",
-     "type": 0,
-     "entry": 2606285,
-     "required": true,
-     "options": []
-    },
-    {
-     "title": "名*",
-     "type": 0,
-     "entry": 1079860933,
-     "required": true,
-     "options": []
-    },
-    {
-     "title": "ふりがな*",
-     "type": 0,
-     "entry": 1309016391,
-     "required": false,
-     "options": []
-    },
-    {
-     "title": "所属支部名",
-     "type": 0,
-     "entry": 157569378,
-     "required": true,
-     "options": []
-    },
-    {
-     "title": "運営支部名",
-     "type": 0,
-     "entry": 128548968,
-     "required": true,
-     "options": []
-    },
-    {
-     "title": "属性",
-     "type": 2,
-     "entry": 1733798372,
-     "required": true,
-     "options": [
-      "役員",
-      "準役員",
-      "会員"
-     ]
-    },
-    {
-     "title": "Facebookのアカウント　例： https://www.facebook.com/profile.php?id=100085563803140　\n役員からお友達申請させていただきます。分からない場合は登録名をお書きください",
-     "type": 0,
-     "entry": 381053907,
-     "required": true,
-     "options": []
-    },
-    {
-     "title": "電話番号",
-     "type": 0,
-     "entry": 1610366032,
-     "required": true,
-     "options": []
-    },
-    {
-     "title": "会社名（または屋号）",
-     "type": 0,
-     "entry": 460021247,
-     "required": true,
-     "options": []
-    },
-    {
-     "title": "業種　※できるだけ詳細がわかるような表記を推奨いたします。例）オンラインマーケティングコンサルタント",
-     "type": 0,
-     "entry": 285582709,
-     "required": false,
-     "options": []
-    },
-    {
-     "title": "キャンセルポリシーに同意する　　月例会・懇親会の3日前まであればキャンセル料金はかかりません。月例会、懇親会ともに、開催日時まで残り48時間以内の場合は100%のキャンセル料金が発生します",
-     "type": 2,
-     "entry": 1298556289,
-     "required": true,
-     "options": [
-      "同意しました"
-     ]
-    }
-   ]
-  },
-  "https://forms.gle/3Dov5h4NKE7oVF998": {
-   "action": "https://docs.google.com/forms/d/e/1FAIpQLSc0cRz4igmAXE85u0ha1ed4_a1xKqWZUvEiQHh-rVM6FsPBMg/viewform",
-   "fields": [
-    {
-     "title": "参加日",
-     "type": 4,
-     "entry": 877086558,
-     "required": true,
-     "options": [
-      "10月10日(土)泉大津のたんじり祭りを月例会後に希望者で見学へ行きます",
-      "11月21日(土)",
-      "12月19日(土)"
-     ]
-    },
-    {
-     "title": "お名前(姓)",
-     "type": 0,
-     "entry": 1507128703,
-     "required": true,
-     "options": []
-    },
-    {
-     "title": "お名前(名)",
-     "type": 0,
-     "entry": 998491565,
-     "required": true,
-     "options": []
-    },
-    {
-     "title": "フリガナ",
-     "type": 0,
-     "entry": 1092600790,
-     "required": true,
-     "options": []
-    },
-    {
-     "title": "所属支部\n【例】だんじり支部（会員以外はゲストとご記入ください）",
-     "type": 1,
-     "entry": 1498135098,
-     "required": true,
-     "options": []
-    },
-    {
-     "title": "ニーズマッチID\nIDの数字のみご入力ください。ゲストの方は\nなし」とご入力お願いします。",
-     "type": 1,
-     "entry": 596614082,
-     "required": true,
-     "options": []
-    },
-    {
-     "title": "属性",
-     "type": 2,
-     "entry": 358729344,
-     "required": true,
-     "options": [
-      "主催",
-      "幹事",
-      "事務局長",
-      "準役員",
-      "会員",
-      "ゲスト"
-     ]
-    },
-    {
-     "title": "メールアドレス\n支部初参加の方又は変更のある方はその他をご選択いただき入力をお願いします。配布資料には記載しませんのでご安心ください。",
-     "type": 2,
-     "entry": 683613682,
-     "required": true,
-     "options": [
-      "前回と同じ"
-     ]
-    },
-    {
-     "title": "携帯電話番号\n支部初参加の方又は変更のある方はその他をご選択いただき入力をお願いします。配布資料には記載しませんのでご安心ください。",
-     "type": 2,
-     "entry": 741064064,
-     "required": true,
-     "options": [
-      "前回と同じ"
-     ]
-    },
-    {
-     "title": "Facebookアカウント\n支部初参加の方又は変更のある方はその他をご選択いただき入力をお願いします。\n【例】https://www.facebook.com/profile.php?id=100041648016439\n配布資料には記載しませんのでご安心ください。",
-     "type": 2,
-     "entry": 997090315,
-     "required": true,
-     "options": [
-      "前回と同じ",
-      "わからない(スレッドへの招待が送れる可能性があります。)"
-     ]
-    },
-    {
-     "title": "会社名（屋号）\n支部初参加の方又は変更のある方はその他をご選択いただき入力をお願いします。",
-     "type": 2,
-     "entry": 2031744745,
-     "required": true,
-     "options": [
-      "前回と同じ"
-     ]
-    },
-    {
-     "title": "業種\n支部初参加の方又は変更のある方はその他をご選択いただき入力をお願いします。",
-     "type": 2,
-     "entry": 2048993277,
-     "required": true,
-     "options": [
-      "前回と同じ"
-     ]
-    },
-    {
-     "title": "業務内容\n支部初参加の方又は変更のある方はその他をご選択いただき入力をお願いします。",
-     "type": 2,
-     "entry": 1291891115,
-     "required": true,
-     "options": [
-      "前回と同じ"
-     ]
-    },
-    {
-     "title": "希望提携先（紹介してほしい人・業種）\n支部初参加の方又は変更のある方はその他をご選択いただき入力をお願いします。\nどのような方（業界/業種/職種/専門家/お客様のイメージ）と繋がりたいか、ご記入ください。詳しく記載して頂ければその場でビジネス紹介が発生しやすくなります。",
-     "type": 2,
-     "entry": 445161583,
-     "required": true,
-     "options": [
-      "前回と同じ"
-     ]
-    },
-    {
-     "title": "月例会後のランチ懇親会　2000円",
-     "type": 2,
-     "entry": 1307502504,
-     "required": true,
-     "options": [
-      "参加する",
-      "今回は残念、、参加しない"
-     ]
     }
    ]
   },
@@ -27753,6 +27431,260 @@
       "主催",
       "事務局長",
       "幹事"
+     ]
+    }
+   ]
+  },
+  "https://forms.gle/3Dov5h4NKE7oVF998": {
+   "action": "https://docs.google.com/forms/d/e/1FAIpQLSc0cRz4igmAXE85u0ha1ed4_a1xKqWZUvEiQHh-rVM6FsPBMg/viewform",
+   "fields": [
+    {
+     "title": "参加日",
+     "type": 4,
+     "entry": 877086558,
+     "required": true,
+     "options": [
+      "10月10日(土)泉大津のたんじり祭りを月例会後に希望者で見学へ行きます",
+      "11月21日(土)",
+      "12月19日(土)"
+     ]
+    },
+    {
+     "title": "お名前(姓)",
+     "type": 0,
+     "entry": 1507128703,
+     "required": true,
+     "options": []
+    },
+    {
+     "title": "お名前(名)",
+     "type": 0,
+     "entry": 998491565,
+     "required": true,
+     "options": []
+    },
+    {
+     "title": "フリガナ",
+     "type": 0,
+     "entry": 1092600790,
+     "required": true,
+     "options": []
+    },
+    {
+     "title": "所属支部\n【例】だんじり支部（会員以外はゲストとご記入ください）",
+     "type": 1,
+     "entry": 1498135098,
+     "required": true,
+     "options": []
+    },
+    {
+     "title": "ニーズマッチID\nIDの数字のみご入力ください。ゲストの方は\nなし」とご入力お願いします。",
+     "type": 1,
+     "entry": 596614082,
+     "required": true,
+     "options": []
+    },
+    {
+     "title": "属性",
+     "type": 2,
+     "entry": 358729344,
+     "required": true,
+     "options": [
+      "主催",
+      "幹事",
+      "事務局長",
+      "準役員",
+      "会員",
+      "ゲスト"
+     ]
+    },
+    {
+     "title": "メールアドレス\n支部初参加の方又は変更のある方はその他をご選択いただき入力をお願いします。配布資料には記載しませんのでご安心ください。",
+     "type": 2,
+     "entry": 683613682,
+     "required": true,
+     "options": [
+      "前回と同じ"
+     ]
+    },
+    {
+     "title": "携帯電話番号\n支部初参加の方又は変更のある方はその他をご選択いただき入力をお願いします。配布資料には記載しませんのでご安心ください。",
+     "type": 2,
+     "entry": 741064064,
+     "required": true,
+     "options": [
+      "前回と同じ"
+     ]
+    },
+    {
+     "title": "Facebookアカウント\n支部初参加の方又は変更のある方はその他をご選択いただき入力をお願いします。\n【例】https://www.facebook.com/profile.php?id=100041648016439\n配布資料には記載しませんのでご安心ください。",
+     "type": 2,
+     "entry": 997090315,
+     "required": true,
+     "options": [
+      "前回と同じ",
+      "わからない(スレッドへの招待が送れる可能性があります。)"
+     ]
+    },
+    {
+     "title": "会社名（屋号）\n支部初参加の方又は変更のある方はその他をご選択いただき入力をお願いします。",
+     "type": 2,
+     "entry": 2031744745,
+     "required": true,
+     "options": [
+      "前回と同じ"
+     ]
+    },
+    {
+     "title": "業種\n支部初参加の方又は変更のある方はその他をご選択いただき入力をお願いします。",
+     "type": 2,
+     "entry": 2048993277,
+     "required": true,
+     "options": [
+      "前回と同じ"
+     ]
+    },
+    {
+     "title": "業務内容\n支部初参加の方又は変更のある方はその他をご選択いただき入力をお願いします。",
+     "type": 2,
+     "entry": 1291891115,
+     "required": true,
+     "options": [
+      "前回と同じ"
+     ]
+    },
+    {
+     "title": "希望提携先（紹介してほしい人・業種）\n支部初参加の方又は変更のある方はその他をご選択いただき入力をお願いします。\nどのような方（業界/業種/職種/専門家/お客様のイメージ）と繋がりたいか、ご記入ください。詳しく記載して頂ければその場でビジネス紹介が発生しやすくなります。",
+     "type": 2,
+     "entry": 445161583,
+     "required": true,
+     "options": [
+      "前回と同じ"
+     ]
+    },
+    {
+     "title": "月例会後のランチ懇親会　2000円",
+     "type": 2,
+     "entry": 1307502504,
+     "required": true,
+     "options": [
+      "参加する",
+      "今回は残念、、参加しない"
+     ]
+    }
+   ]
+  },
+  "https://forms.gle/N1f5LQyRVQFQS6fn7": {
+   "action": "https://docs.google.com/forms/d/e/1FAIpQLScAj4hrD8HbcP1uFDmXju1ohKyObDitn8qHJWuhJrEx3N_7Bw/viewform",
+   "fields": [
+    {
+     "title": "メールアドレス*",
+     "type": 0,
+     "entry": 877086558,
+     "required": true,
+     "options": []
+    },
+    {
+     "title": "参加希望日（毎月第3土曜日 18:00~20:00）*\n時感術支部はオンライン開催です。",
+     "type": 2,
+     "entry": 1498135098,
+     "required": true,
+     "options": [
+      "2026年9月19日(土)@オンライン",
+      "2026年10月17日(土)@オンライン",
+      "2026年11月21日(土)@オンライン",
+      "2026年12月19日(土)@オンライン",
+      "2027年1月16日(土)@オンライン"
+     ]
+    },
+    {
+     "title": "NM ID会員番号（必ずご記入ください）　※NM〇〇〇〇←数字が入ります。本部からのメールに記載されています。NMを入れず、数字のみでご記入ください",
+     "type": 0,
+     "entry": 1424661284,
+     "required": true,
+     "options": []
+    },
+    {
+     "title": "姓*",
+     "type": 0,
+     "entry": 2606285,
+     "required": true,
+     "options": []
+    },
+    {
+     "title": "名*",
+     "type": 0,
+     "entry": 1079860933,
+     "required": true,
+     "options": []
+    },
+    {
+     "title": "ふりがな*",
+     "type": 0,
+     "entry": 1309016391,
+     "required": false,
+     "options": []
+    },
+    {
+     "title": "所属支部名",
+     "type": 0,
+     "entry": 157569378,
+     "required": true,
+     "options": []
+    },
+    {
+     "title": "運営支部名",
+     "type": 0,
+     "entry": 128548968,
+     "required": true,
+     "options": []
+    },
+    {
+     "title": "属性",
+     "type": 2,
+     "entry": 1733798372,
+     "required": true,
+     "options": [
+      "役員",
+      "準役員",
+      "会員"
+     ]
+    },
+    {
+     "title": "Facebookのアカウント　例： https://www.facebook.com/profile.php?id=100085563803140　\n役員からお友達申請させていただきます。分からない場合は登録名をお書きください",
+     "type": 0,
+     "entry": 381053907,
+     "required": true,
+     "options": []
+    },
+    {
+     "title": "電話番号",
+     "type": 0,
+     "entry": 1610366032,
+     "required": true,
+     "options": []
+    },
+    {
+     "title": "会社名（または屋号）",
+     "type": 0,
+     "entry": 460021247,
+     "required": true,
+     "options": []
+    },
+    {
+     "title": "業種　※できるだけ詳細がわかるような表記を推奨いたします。例）オンラインマーケティングコンサルタント",
+     "type": 0,
+     "entry": 285582709,
+     "required": false,
+     "options": []
+    },
+    {
+     "title": "キャンセルポリシーに同意する　　月例会・懇親会の3日前まであればキャンセル料金はかかりません。月例会、懇親会ともに、開催日時まで残り48時間以内の場合は100%のキャンセル料金が発生します",
+     "type": 2,
+     "entry": 1298556289,
+     "required": true,
+     "options": [
+      "同意しました"
      ]
     }
    ]
