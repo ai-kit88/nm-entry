@@ -1,7 +1,7 @@
 {
  "ok": true,
- "checked_at": "2026-11-23T10:26:48+09:00",
- "message": "476件の月例会を取り込みました",
+ "checked_at": "2026-11-24T14:10:01+09:00",
+ "message": "470件の月例会を取り込みました",
  "warnings": [
   "form https://docs.google.com/forms/d/1f_M_agI4OZ1s5Yl6SN5FqPRHi991BJrKprH4GBY1byA/edit?hl=ja#settings: HTTP Error 401: Unauthorized",
   "form https://forms.gle/b49rZ6rxVfA5y2mW7: HTTP Error 401: Unauthorized",
@@ -9,8 +9,8 @@
   "form https://forms.gle/78gtirS9o11VxWyM6: HTTP Error 401: Unauthorized",
   "form https://forms.gle/rkGwRFgBu8iCYAuB6: HTTP Error 401: Unauthorized"
  ],
- "events": 476,
- "branches": 476,
+ "events": 470,
+ "branches": 470,
  "failed_details": 0,
  "google_forms": 153,
  "forms_readable": 148
