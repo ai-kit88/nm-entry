@@ -1,70 +1,6 @@
 {
- "generated_at": "2026-11-25T12:58:25+09:00",
+ "generated_at": "2026-11-26T12:23:36+09:00",
  "events": [
-  {
-   "date": "2026-11-25",
-   "time": "19:00",
-   "name": "ゆるっと企画室",
-   "url": "https://nm2014.jp/shibu/mt234099/",
-   "area": "ネット",
-   "stars": 1
-  },
-  {
-   "date": "2026-11-25",
-   "time": "10:00",
-   "name": "ハルモニア",
-   "url": "https://nm2014.jp/shibu/mt234107/",
-   "area": "ネット(神奈川)",
-   "stars": 1
-  },
-  {
-   "date": "2026-11-25",
-   "time": "15:00",
-   "name": "ながや",
-   "url": "https://nm2014.jp/shibu/mt234108/",
-   "area": "愛知県",
-   "stars": 0
-  },
-  {
-   "date": "2026-11-25",
-   "time": "17:00",
-   "name": "あぐれっ",
-   "url": "https://nm2014.jp/shibu/mt234109/",
-   "area": "大阪府",
-   "stars": 1
-  },
-  {
-   "date": "2026-11-25",
-   "time": "10:00",
-   "name": "ルミナ",
-   "url": "https://nm2014.jp/shibu/mt234110/",
-   "area": "長野県",
-   "stars": 0
-  },
-  {
-   "date": "2026-11-25",
-   "time": "14:30",
-   "name": "NEO",
-   "url": "https://nm2014.jp/shibu/mt234111/",
-   "area": "東京都",
-   "stars": 2
-  },
-  {
-   "date": "2026-11-25",
-   "time": "15:00",
-   "name": "時の藏",
-   "url": "https://nm2014.jp/shibu/mt234112/",
-   "area": "東京都",
-   "stars": 3
-  },
-  {
-   "date": "2026-11-25",
-   "time": "10:00",
-   "name": "はじまりの聖地まほろば",
-   "url": "https://nm2014.jp/shibu/mt234113/",
-   "area": "奈良県",
-   "stars": 0
-  },
   {
    "date": "2026-11-26",
    "time": "13:00",
@@ -3681,124 +3617,6 @@
    "apply_mailto_link": false,
    "apply_type": "google",
    "apply_target": "https://forms.gle/vzWmE673Sb6nhGK26"
-  },
-  "https://nm2014.jp/shibu/mt234099/": {
-   "date": "2026-11-25",
-   "deadline_text": "当日の相談可\n\n ※ゲストの方の参加申し込み締切は、3日前となります。",
-   "deadline_days": 0,
-   "guest_deadline_days": 3,
-   "apply_urls": [
-    "https://start-here.biz/nm-yurutto-planning-room-foem/"
-   ],
-   "apply_note": "会員・役員の方は下記リンクより、役員へ直接お申し込みください。\nhttps://start-here.biz/nm-yurutto-planning-room-foem/",
-   "apply_mail": false,
-   "apply_mailto_link": false,
-   "apply_type": "form",
-   "apply_target": "https://start-here.biz/nm-yurutto-planning-room-foem/"
-  },
-  "https://nm2014.jp/shibu/mt234107/": {
-   "date": "2026-11-25",
-   "deadline_text": "当日の相談可\n\n ※ゲストの方の参加申し込み締切は、3日前となります。",
-   "deadline_days": 0,
-   "guest_deadline_days": 3,
-   "apply_urls": [
-    "https://forms.gle/df3P9MaHXTuzu3xJ6"
-   ],
-   "apply_note": "会員・役員の方は下記リンクより、役員へ直接お申し込みください。\nhttps://forms.gle/df3P9MaHXTuzu3xJ6",
-   "apply_mail": false,
-   "apply_mailto_link": false,
-   "apply_type": "google",
-   "apply_target": "https://forms.gle/df3P9MaHXTuzu3xJ6"
-  },
-  "https://nm2014.jp/shibu/mt234108/": {
-   "date": "2026-11-25",
-   "station": "名古屋",
-   "deadline_text": "2日前\n\n ※ゲストの方の参加申し込み締切は、3日前となります。",
-   "deadline_days": 2,
-   "guest_deadline_days": 3,
-   "apply_urls": [
-    "https://forms.gle/fsXdMr1oMw45YgeG9"
-   ],
-   "apply_note": "会員・役員の方は下記リンクより、役員へ直接お申し込みください。\nhttps://forms.gle/fsXdMr1oMw45YgeG9",
-   "apply_mail": false,
-   "apply_mailto_link": false,
-   "apply_type": "google",
-   "apply_target": "https://forms.gle/fsXdMr1oMw45YgeG9"
-  },
-  "https://nm2014.jp/shibu/mt234109/": {
-   "date": "2026-11-25",
-   "station": "御堂筋線：西中島南方駅、阪急：南方駅、JR：新大阪駅",
-   "deadline_text": "3日前\n\n ※ゲストの方の参加申し込み締切は、3日前となります。",
-   "deadline_days": 3,
-   "guest_deadline_days": 3,
-   "apply_urls": [
-    "https://docs.google.com/forms/d/e/1FAIpQLScDDYmzvcsx6nLw49gXbTJeTuDIAwpjnHcFEJulv9ZAIwQdTA/viewform"
-   ],
-   "apply_note": "会員・役員の方は下記リンクより、役員へ直接お申し込みください。\nhttps://docs.google.com/forms/d/e/1FAIpQLScDDYmzvcsx6nLw49gXbTJeTuDIAwpjnHcFEJulv9ZAIwQdTA/viewform",
-   "apply_mail": false,
-   "apply_mailto_link": false,
-   "apply_type": "google",
-   "apply_target": "https://docs.google.com/forms/d/e/1FAIpQLScDDYmzvcsx6nLw49gXbTJeTuDIAwpjnHcFEJulv9ZAIwQdTA/viewform"
-  },
-  "https://nm2014.jp/shibu/mt234110/": {
-   "date": "2026-11-25",
-   "station": "島内",
-   "deadline_text": "5日前\n\n ※ゲストの方の参加申し込み締切は、3日前となります。",
-   "deadline_days": 5,
-   "guest_deadline_days": 3,
-   "apply_urls": [
-    "https://docs.google.com/forms/d/e/1FAIpQLSfrCXOjq0XUi_cn2eVcCaVU1xl9b2igcYr2jYBpK_iPLDxZiQ/viewform?usp=publish-editor"
-   ],
-   "apply_note": "会員・役員の方は下記リンクより、役員へ直接お申し込みください。\nhttps://docs.google.com/forms/d/e/1FAIpQLSfrCXOjq0XUi_cn2eVcCaVU1xl9b2igcYr2jYBpK_iPLDxZiQ/viewform?usp=publish-editor",
-   "apply_mail": false,
-   "apply_mailto_link": false,
-   "apply_type": "google",
-   "apply_target": "https://docs.google.com/forms/d/e/1FAIpQLSfrCXOjq0XUi_cn2eVcCaVU1xl9b2igcYr2jYBpK_iPLDxZiQ/viewform?usp=publish-editor"
-  },
-  "https://nm2014.jp/shibu/mt234111/": {
-   "date": "2026-11-25",
-   "station": "立川",
-   "deadline_text": "7日前\n\n ※ゲストの方の参加申し込み締切は、3日前となります。",
-   "deadline_days": 7,
-   "guest_deadline_days": 3,
-   "apply_urls": [
-    "https://forms.gle/ecPA4H5bTutUro288"
-   ],
-   "apply_note": "会員・役員の方は下記リンクより、役員へ直接お申し込みください。\nhttps://forms.gle/ecPA4H5bTutUro288",
-   "apply_mail": false,
-   "apply_mailto_link": false,
-   "apply_type": "google",
-   "apply_target": "https://forms.gle/ecPA4H5bTutUro288"
-  },
-  "https://nm2014.jp/shibu/mt234112/": {
-   "date": "2026-11-25",
-   "station": "恵比寿",
-   "deadline_text": "2日前\n\n ※ゲストの方の参加申し込み締切は、3日前となります。",
-   "deadline_days": 2,
-   "guest_deadline_days": 3,
-   "apply_urls": [
-    "https://docs.google.com/forms/d/e/1FAIpQLScNG9CDEhuNrky6XRbZbL6xT1Npr9L3XuLeOP3RJu1lF8JrpQ/viewform?usp=header"
-   ],
-   "apply_note": "会員・役員の方は下記リンクより、役員へ直接お申し込みください。\nhttps://docs.google.com/forms/d/e/1FAIpQLScNG9CDEhuNrky6XRbZbL6xT1Npr9L3XuLeOP3RJu1lF8JrpQ/viewform?usp=header",
-   "apply_mail": false,
-   "apply_mailto_link": false,
-   "apply_type": "google",
-   "apply_target": "https://docs.google.com/forms/d/e/1FAIpQLScNG9CDEhuNrky6XRbZbL6xT1Npr9L3XuLeOP3RJu1lF8JrpQ/viewform?usp=header"
-  },
-  "https://nm2014.jp/shibu/mt234113/": {
-   "date": "2026-11-25",
-   "station": "大和西大寺駅",
-   "deadline_text": "3日前\n\n ※ゲストの方の参加申し込み締切は、3日前となります。",
-   "deadline_days": 3,
-   "guest_deadline_days": 3,
-   "apply_urls": [
-    "https://forms.gle/HATobdNHhqWjg4HJ8"
-   ],
-   "apply_note": "会員・役員の方は下記リンクより、役員へ直接お申し込みください。\nhttps://forms.gle/HATobdNHhqWjg4HJ8",
-   "apply_mail": false,
-   "apply_mailto_link": false,
-   "apply_type": "google",
-   "apply_target": "https://forms.gle/HATobdNHhqWjg4HJ8"
   },
   "https://nm2014.jp/shibu/mt234114/": {
    "date": "2026-11-26",
@@ -10459,830 +10277,6 @@
      "entry": 1214786520,
      "required": false,
      "options": []
-    }
-   ]
-  },
-  "https://forms.gle/df3P9MaHXTuzu3xJ6": {
-   "action": "https://docs.google.com/forms/d/e/1FAIpQLSfsnIY7d2e_95h3HLC2V4Pwi4-aZIIQ1IJNFLSbZjoPFze_wA/viewform",
-   "fields": [
-    {
-     "title": "姓",
-     "type": 0,
-     "entry": 1292887734,
-     "required": true,
-     "options": []
-    },
-    {
-     "title": "名",
-     "type": 0,
-     "entry": 574411941,
-     "required": true,
-     "options": []
-    },
-    {
-     "title": "お名前ふりがな",
-     "type": 0,
-     "entry": 2066127675,
-     "required": true,
-     "options": []
-    },
-    {
-     "title": "ニーズマッチID（不明の場合は不明と記入）",
-     "type": 0,
-     "entry": 1586096825,
-     "required": true,
-     "options": []
-    },
-    {
-     "title": "所属支部",
-     "type": 0,
-     "entry": 738876180,
-     "required": true,
-     "options": []
-    },
-    {
-     "title": "役員をされている支部",
-     "type": 0,
-     "entry": 1136437649,
-     "required": false,
-     "options": []
-    },
-    {
-     "title": "属性",
-     "type": 3,
-     "entry": 1320369078,
-     "required": true,
-     "options": [
-      "会員",
-      "準役員",
-      "主催",
-      "幹事",
-      "事務局長",
-      "本部・支部統括"
-     ]
-    },
-    {
-     "title": "お住まいの都道府県",
-     "type": 0,
-     "entry": 1308550082,
-     "required": false,
-     "options": []
-    },
-    {
-     "title": "参加日時",
-     "type": 4,
-     "entry": 1855069080,
-     "required": true,
-     "options": [
-      "10月28日（水）",
-      "11月25日（水）",
-      "12月23日（水）1周年！",
-      "1月27日（水）",
-      "2月24日（水）",
-      "3月24日（水）"
-     ]
-    },
-    {
-     "title": "お仕事の業種",
-     "type": 1,
-     "entry": 461026418,
-     "required": true,
-     "options": []
-    },
-    {
-     "title": "FacebookプロフィールURL",
-     "type": 1,
-     "entry": 1132415659,
-     "required": true,
-     "options": []
-    },
-    {
-     "title": "希望紹介先",
-     "type": 1,
-     "entry": 1191956304,
-     "required": true,
-     "options": []
-    },
-    {
-     "title": "【12月1周年企画！】主催&事務局長があなたのリクエストに応えます！演奏してほしい曲があったら教えてください！",
-     "type": 1,
-     "entry": 1863830040,
-     "required": false,
-     "options": []
-    },
-    {
-     "title": "コメントまたは質問",
-     "type": 1,
-     "entry": 1253981755,
-     "required": false,
-     "options": []
-    }
-   ]
-  },
-  "https://forms.gle/fsXdMr1oMw45YgeG9": {
-   "action": "https://docs.google.com/forms/d/e/1FAIpQLSf9ldn5RWG3dci-_N9gcq-nDTW_jn822SPURBsY_pC2zBF12g/viewform",
-   "fields": [
-    {
-     "title": "姓",
-     "type": 0,
-     "entry": 2092238618,
-     "required": true,
-     "options": []
-    },
-    {
-     "title": "名",
-     "type": 0,
-     "entry": 1015934920,
-     "required": true,
-     "options": []
-    },
-    {
-     "title": "生年月日（半角数字8文字にて　例:1990年1月1日→19900101）",
-     "type": 0,
-     "entry": 1494665618,
-     "required": false,
-     "options": []
-    },
-    {
-     "title": "ご連絡先電話番号",
-     "type": 0,
-     "entry": 479301265,
-     "required": true,
-     "options": []
-    },
-    {
-     "title": "参加希望日（複数選択可）",
-     "type": 4,
-     "entry": 1753222212,
-     "required": true,
-     "options": [
-      "10/28（水）15時〜17時",
-      "11/25（水）15時〜17時",
-      "12/23（水）15時〜17時"
-     ]
-    },
-    {
-     "title": "終了後の懇親会に参加されますか？",
-     "type": 2,
-     "entry": 588393791,
-     "required": true,
-     "options": [
-      "はい",
-      "いいえ"
-     ]
-    },
-    {
-     "title": "ニーズマッチID（ゲストの方は「なし」とお書きください）",
-     "type": 0,
-     "entry": 2109138769,
-     "required": true,
-     "options": []
-    },
-    {
-     "title": "属性",
-     "type": 2,
-     "entry": 123495551,
-     "required": true,
-     "options": [
-      "主催",
-      "幹事",
-      "事務局長",
-      "準役員",
-      "会員",
-      "ゲスト"
-     ]
-    },
-    {
-     "title": "所属支部（ゲスト・見学の方はなしとご記入ください）",
-     "type": 0,
-     "entry": 2084808214,
-     "required": true,
-     "options": []
-    },
-    {
-     "title": "役員をしている支部があれば（支部名をご記入ください）",
-     "type": 0,
-     "entry": 1616203977,
-     "required": false,
-     "options": []
-    },
-    {
-     "title": "紹介者（ゲストの方のみ）",
-     "type": 0,
-     "entry": 1075156171,
-     "required": false,
-     "options": []
-    },
-    {
-     "title": "会社名",
-     "type": 0,
-     "entry": 997034502,
-     "required": true,
-     "options": []
-    },
-    {
-     "title": "業種",
-     "type": 0,
-     "entry": 797908279,
-     "required": true,
-     "options": []
-    },
-    {
-     "title": "紹介希望先（理想の顧客や）協業可能な業種など",
-     "type": 1,
-     "entry": 1470933616,
-     "required": true,
-     "options": []
-    },
-    {
-     "title": "Facebook URL（なしの場合はなしとお書きください）",
-     "type": 0,
-     "entry": 2014206648,
-     "required": true,
-     "options": []
-    },
-    {
-     "title": "会場に10分前までに到着お願いします！",
-     "type": 4,
-     "entry": 985166967,
-     "required": true,
-     "options": [
-      "はい、了解しました！"
-     ]
-    },
-    {
-     "title": "備考欄",
-     "type": 1,
-     "entry": 1589466793,
-     "required": false,
-     "options": []
-    }
-   ]
-  },
-  "https://docs.google.com/forms/d/e/1FAIpQLScDDYmzvcsx6nLw49gXbTJeTuDIAwpjnHcFEJulv9ZAIwQdTA/viewform": {
-   "action": "https://docs.google.com/forms/d/e/1FAIpQLScDDYmzvcsx6nLw49gXbTJeTuDIAwpjnHcFEJulv9ZAIwQdTA/viewform",
-   "fields": [
-    {
-     "title": "参加希望日",
-     "type": 2,
-     "entry": 261987034,
-     "required": true,
-     "options": [
-      "10月28日",
-      "11月25日",
-      "12月23日"
-     ]
-    },
-    {
-     "title": "会員ID（ゲストの方は無しとご入力ください）\n※NM-以下を記入してください",
-     "type": 0,
-     "entry": 197226963,
-     "required": true,
-     "options": []
-    },
-    {
-     "title": "参加者の苗字をご記入ください",
-     "type": 0,
-     "entry": 333516189,
-     "required": true,
-     "options": []
-    },
-    {
-     "title": "参加者の名前をご記入ください",
-     "type": 0,
-     "entry": 328940002,
-     "required": true,
-     "options": []
-    },
-    {
-     "title": "参加者のフリガナをご記入ください",
-     "type": 0,
-     "entry": 1661023359,
-     "required": true,
-     "options": []
-    },
-    {
-     "title": "他支部会員は「その他」を選択し支部名をご入力ください",
-     "type": 2,
-     "entry": 116382995,
-     "required": true,
-     "options": [
-      "あぐれっ支部",
-      "おおきに支部",
-      "ストレート支部",
-      "商売繁盛支部",
-      "和47支部",
-      "ももたろう支部",
-      "ライジングサン支部",
-      "pinkelephant支部",
-      "キャロット支部",
-      "ザクザク支部",
-      "ゲスト"
-     ]
-    },
-    {
-     "title": "属性",
-     "type": 2,
-     "entry": 449784618,
-     "required": true,
-     "options": [
-      "主催",
-      "幹事",
-      "事務局長",
-      "準役員",
-      "会員",
-      "ゲスト"
-     ]
-    },
-    {
-     "title": "業種",
-     "type": 1,
-     "entry": 494764299,
-     "required": true,
-     "options": []
-    },
-    {
-     "title": "希望提携先",
-     "type": 1,
-     "entry": 1623404759,
-     "required": true,
-     "options": []
-    },
-    {
-     "title": "【初参加者】ゲストの方へ　ご紹介者をご記入ください",
-     "type": 0,
-     "entry": 1081290584,
-     "required": false,
-     "options": []
-    },
-    {
-     "title": "懇親会",
-     "type": 2,
-     "entry": 610985906,
-     "required": false,
-     "options": [
-      "参加",
-      "不参加"
-     ]
-    },
-    {
-     "title": "生年月日",
-     "type": 9,
-     "entry": 1069149061,
-     "required": false,
-     "options": []
-    },
-    {
-     "title": "facebookリンクURL",
-     "type": 0,
-     "entry": 1084105869,
-     "required": false,
-     "options": []
-    },
-    {
-     "title": "≪お願いと禁止事項≫",
-     "type": 4,
-     "entry": 103115778,
-     "required": true,
-     "options": [
-      "授記禁止事項を確認しました"
-     ]
-    }
-   ]
-  },
-  "https://docs.google.com/forms/d/e/1FAIpQLSfrCXOjq0XUi_cn2eVcCaVU1xl9b2igcYr2jYBpK_iPLDxZiQ/viewform?usp=publish-editor": {
-   "action": "https://docs.google.com/forms/d/e/1FAIpQLSfrCXOjq0XUi_cn2eVcCaVU1xl9b2igcYr2jYBpK_iPLDxZiQ/viewform",
-   "fields": [
-    {
-     "title": "お名前",
-     "type": 0,
-     "entry": 324414896,
-     "required": true,
-     "options": []
-    },
-    {
-     "title": "ふりがな",
-     "type": 0,
-     "entry": 721371185,
-     "required": true,
-     "options": []
-    },
-    {
-     "title": "メールアドレス",
-     "type": 0,
-     "entry": 109673762,
-     "required": true,
-     "options": []
-    },
-    {
-     "title": "NM番号（ゲストの方はゲストとご記入ください）",
-     "type": 0,
-     "entry": 428711522,
-     "required": true,
-     "options": []
-    },
-    {
-     "title": "所属または運営支部（ゲストの方はゲストとご記入ください）",
-     "type": 0,
-     "entry": 953471971,
-     "required": true,
-     "options": []
-    },
-    {
-     "title": "属性",
-     "type": 2,
-     "entry": 1590412772,
-     "required": true,
-     "options": [
-      "主催",
-      "事務局",
-      "準会員",
-      "会員",
-      "ゲスト"
-     ]
-    },
-    {
-     "title": "参加希望日",
-     "type": 2,
-     "entry": 259285454,
-     "required": true,
-     "options": [
-      "9月30日（水）10:00〜12:00",
-      "10月28日（水）10:00〜12:00",
-      "11月25日（水）10:00〜12:00"
-     ]
-    },
-    {
-     "title": "例会後、近隣のお店で懇親会を予定しています。\nこちらへの出欠席のご記入をお願いします。\n※お店確定後、あらためてご連絡いたします",
-     "type": 2,
-     "entry": 43226505,
-     "required": true,
-     "options": [
-      "参加する",
-      "参加しない",
-      "検討中"
-     ]
-    },
-    {
-     "title": "Facebookアカウント",
-     "type": 0,
-     "entry": 244964608,
-     "required": true,
-     "options": []
-    },
-    {
-     "title": "業種または肩書",
-     "type": 0,
-     "entry": 1853315232,
-     "required": true,
-     "options": []
-    },
-    {
-     "title": "どんな方とつながりたいですか？",
-     "type": 0,
-     "entry": 1880940179,
-     "required": true,
-     "options": []
-    },
-    {
-     "title": "携帯番号（外部には出しません）",
-     "type": 0,
-     "entry": 1117170167,
-     "required": true,
-     "options": []
-    },
-    {
-     "title": "ニーズマッチ会員以外の方は下記よりお申し込みください。\n\nhttps://nm2014.jp/lists/",
-     "type": 0,
-     "entry": 342569124,
-     "required": false,
-     "options": []
-    }
-   ]
-  },
-  "https://forms.gle/ecPA4H5bTutUro288": {
-   "action": "https://docs.google.com/forms/d/e/1FAIpQLScOwTIGkDdDzKuaOuGAQApPrc2gD0Dly7XQ4aMmu9wFwyxdwA/viewform",
-   "fields": [
-    {
-     "title": "参加日時",
-     "type": 4,
-     "entry": 165953570,
-     "required": true,
-     "options": [
-      "2026年8月26日",
-      "2026年9月30日※第5週目開催",
-      "2026年10月28日",
-      "2026年11月25日",
-      "2026年12月23日"
-     ]
-    },
-    {
-     "title": "交流会",
-     "type": 2,
-     "entry": 388962177,
-     "required": true,
-     "options": [
-      "参加します",
-      "見送ります",
-      "未定です"
-     ]
-    },
-    {
-     "title": "会員ID",
-     "type": 0,
-     "entry": 128878639,
-     "required": true,
-     "options": []
-    },
-    {
-     "title": "参加者のお名前をご記入ください。",
-     "type": 0,
-     "entry": 357244175,
-     "required": true,
-     "options": []
-    },
-    {
-     "title": "お名前のふりがなをご記入ください。",
-     "type": 0,
-     "entry": 1391199197,
-     "required": true,
-     "options": []
-    },
-    {
-     "title": "当日呼んでもらいたいニックネーム",
-     "type": 0,
-     "entry": 1744756479,
-     "required": true,
-     "options": []
-    },
-    {
-     "title": "お住まいの地域",
-     "type": 0,
-     "entry": 1991430045,
-     "required": true,
-     "options": []
-    },
-    {
-     "title": "所属or運営支部",
-     "type": 0,
-     "entry": 1792826100,
-     "required": true,
-     "options": []
-    },
-    {
-     "title": "属性",
-     "type": 4,
-     "entry": 520514585,
-     "required": true,
-     "options": [
-      "主催",
-      "幹事",
-      "事務局長",
-      "準役員",
-      "会員",
-      "ゲスト(申込方法が異なります)"
-     ]
-    },
-    {
-     "title": "連絡先",
-     "type": 0,
-     "entry": 1804980065,
-     "required": true,
-     "options": []
-    },
-    {
-     "title": "FacebookプロフィールURL",
-     "type": 0,
-     "entry": 1615917088,
-     "required": true,
-     "options": []
-    },
-    {
-     "title": "お仕事の業種",
-     "type": 0,
-     "entry": 581815641,
-     "required": true,
-     "options": []
-    },
-    {
-     "title": "コメントまたはご質問",
-     "type": 1,
-     "entry": 2013253828,
-     "required": false,
-     "options": []
-    }
-   ]
-  },
-  "https://docs.google.com/forms/d/e/1FAIpQLScNG9CDEhuNrky6XRbZbL6xT1Npr9L3XuLeOP3RJu1lF8JrpQ/viewform?usp=header": {
-   "action": "https://docs.google.com/forms/d/e/1FAIpQLScNG9CDEhuNrky6XRbZbL6xT1Npr9L3XuLeOP3RJu1lF8JrpQ/viewform",
-   "fields": [
-    {
-     "title": "お名前(漢字フルネーム)",
-     "type": 0,
-     "entry": 641436664,
-     "required": true,
-     "options": []
-    },
-    {
-     "title": "お名前(ふりがな)",
-     "type": 0,
-     "entry": 490975395,
-     "required": true,
-     "options": []
-    },
-    {
-     "title": "facebookアカウント（ご自身のプロフィールページのURL）",
-     "type": 0,
-     "entry": 1466155016,
-     "required": true,
-     "options": []
-    },
-    {
-     "title": "ニーズマッチ ID(４桁数字のみ)",
-     "type": 0,
-     "entry": 229023233,
-     "required": true,
-     "options": []
-    },
-    {
-     "title": "所属支部・運営支部",
-     "type": 0,
-     "entry": 898707891,
-     "required": true,
-     "options": []
-    },
-    {
-     "title": "参加日 ※複数選択可能",
-     "type": 4,
-     "entry": 569088785,
-     "required": true,
-     "options": [
-      "2026年10月28日(水)",
-      "2026年11月25日(水)",
-      "2026年12月22日(火)⚠️イレギュラー",
-      "2027年1月27日(水)",
-      "2027年2月24日(水)",
-      "フォームを提出した月の懇親会🍺だけの参加"
-     ]
-    },
-    {
-     "title": "ご紹介者さん\n※いない場合は「なし」とお書きください",
-     "type": 0,
-     "entry": 2140314639,
-     "required": true,
-     "options": []
-    },
-    {
-     "title": "お仕事の業種\n※月例会でお仕事として紹介（表記）されます\n※「⚫︎⚫︎業」や「⚫︎⚫︎コンサル」など端的にお願いします",
-     "type": 0,
-     "entry": 126729597,
-     "required": true,
-     "options": []
-    },
-    {
-     "title": "終了後17時15分〜懇親会を行います。\n場所『Monsoon Cafe』\n事前予約の為参加についてお教え下さい。\n予算目安5,500円程度（2時間飲み放題付き）",
-     "type": 2,
-     "entry": 1391975210,
-     "required": true,
-     "options": [
-      "参加します",
-      "今回は参加しません"
-     ]
-    },
-    {
-     "title": "facebookメッセンジャー等でご連絡させて頂いたり、テーブル毎にグループを組ませて頂く為、お友達申請を宜しくお願い致します。\n\n※申込みフォーム管理の関係上最低限\"藏本\"は必ずお願いします。\n登録の際申し込み完了の旨お教え頂けると大変助かります。\n\n【主催・藏本 陽】🚨必ず登録を🙇‍♂️\nhttps://www.facebook.com/yoh.kuramoto\n\n【幹事・清水 綾乃】\nhttps://www.facebook.com/ayano.shimizu.12\n\n【事務局長・結城浩美】\nhttps://www.facebook.com/hiromi.yuki999",
-     "type": 2,
-     "entry": 134764683,
-     "required": true,
-     "options": [
-      "すでにつながっています",
-      "上記にあるURLをタップして申請します"
-     ]
-    }
-   ]
-  },
-  "https://forms.gle/HATobdNHhqWjg4HJ8": {
-   "action": "https://docs.google.com/forms/d/e/1FAIpQLSeHtwrI8BdsueAlJZ7pHRWtWZA4UN7COeYT5nn76HHTzGgP5A/viewform",
-   "fields": [
-    {
-     "title": "お名前フルネーム\n(こちらに記載のお名前を名簿にそのまま載せます)　山崎良光",
-     "type": 0,
-     "entry": 1517867947,
-     "required": true,
-     "options": []
-    },
-    {
-     "title": "ふりがな（フルネーム）",
-     "type": 0,
-     "entry": 1067793252,
-     "required": true,
-     "options": []
-    },
-    {
-     "title": "参加日をお選びください。",
-     "type": 2,
-     "entry": 1465407658,
-     "required": true,
-     "options": [
-      "2026/10/28(20名様限定）",
-      "2026/11/25(20名様限定）",
-      "2026/12/23(20名様限定）"
-     ]
-    },
-    {
-     "title": "懇親会の参加について",
-     "type": 2,
-     "entry": 244718729,
-     "required": true,
-     "options": [
-      "2026/10/28",
-      "2026/11/25",
-      "2026/12/23",
-      "不参加"
-     ]
-    },
-    {
-     "title": "所属支部または主催支部\n※「支部」は省いてください。\n※ゲストの方は「なし」とご記入ください。",
-     "type": 0,
-     "entry": 227045745,
-     "required": true,
-     "options": []
-    },
-    {
-     "title": "役職(主催、事務局、準役員、会員、ゲスト、幹事)",
-     "type": 3,
-     "entry": 213434871,
-     "required": true,
-     "options": [
-      "主催",
-      "事務局",
-      "準役員",
-      "会員",
-      "ゲスト",
-      "幹事"
-     ]
-    },
-    {
-     "title": "会員の方はニーズマッチID(数字のみ)をご記入ください。\nゲストの方はなしとご入力ください。",
-     "type": 0,
-     "entry": 1399687056,
-     "required": true,
-     "options": []
-    },
-    {
-     "title": "肩書き・業種",
-     "type": 0,
-     "entry": 355357609,
-     "required": true,
-     "options": []
-    },
-    {
-     "title": "ご紹介または協業したい方や業種をお聞かせください。",
-     "type": 0,
-     "entry": 1760234779,
-     "required": false,
-     "options": []
-    },
-    {
-     "title": "誕生日月をお教えください。",
-     "type": 0,
-     "entry": 1447672568,
-     "required": true,
-     "options": []
-    },
-    {
-     "title": "限定回答【ゲスト様 のみ回答】\n主催なかたにみさことの参加前1on1ミーティング(30分程度)はお済みですか？",
-     "type": 2,
-     "entry": 1000758697,
-     "required": false,
-     "options": [
-      "まだです（予定もまだ）",
-      "まだです（予定済み）",
-      "ミーティング済み"
-     ]
-    },
-    {
-     "title": "限定回答【ゲスト様 ＆ 初参加の他支部会員様のみ回答】\n\nfacebookのアカウントURLをこちらに添付してください。",
-     "type": 0,
-     "entry": 754617060,
-     "required": false,
-     "options": []
-    },
-    {
-     "title": "連絡事項等あればこちらにご記入ください",
-     "type": 0,
-     "entry": 1738829513,
-     "required": false,
-     "options": []
-    },
-    {
-     "title": "～参加にあたってのお願いと禁止事項～",
-     "type": 2,
-     "entry": 32904754,
-     "required": true,
-     "options": [
-      "同意する"
-     ]
     }
    ]
   },
@@ -27009,6 +26003,94 @@
     }
    ]
   },
+  "https://docs.google.com/forms/d/e/1FAIpQLScNG9CDEhuNrky6XRbZbL6xT1Npr9L3XuLeOP3RJu1lF8JrpQ/viewform?usp=header": {
+   "action": "https://docs.google.com/forms/d/e/1FAIpQLScNG9CDEhuNrky6XRbZbL6xT1Npr9L3XuLeOP3RJu1lF8JrpQ/viewform",
+   "fields": [
+    {
+     "title": "お名前(漢字フルネーム)",
+     "type": 0,
+     "entry": 641436664,
+     "required": true,
+     "options": []
+    },
+    {
+     "title": "お名前(ふりがな)",
+     "type": 0,
+     "entry": 490975395,
+     "required": true,
+     "options": []
+    },
+    {
+     "title": "facebookアカウント（ご自身のプロフィールページのURL）",
+     "type": 0,
+     "entry": 1466155016,
+     "required": true,
+     "options": []
+    },
+    {
+     "title": "ニーズマッチ ID(４桁数字のみ)",
+     "type": 0,
+     "entry": 229023233,
+     "required": true,
+     "options": []
+    },
+    {
+     "title": "所属支部・運営支部",
+     "type": 0,
+     "entry": 898707891,
+     "required": true,
+     "options": []
+    },
+    {
+     "title": "参加日 ※複数選択可能",
+     "type": 4,
+     "entry": 569088785,
+     "required": true,
+     "options": [
+      "2026年10月28日(水)",
+      "2026年11月25日(水)",
+      "2026年12月22日(火)⚠️イレギュラー",
+      "2027年1月27日(水)",
+      "2027年2月24日(水)",
+      "フォームを提出した月の懇親会🍺だけの参加"
+     ]
+    },
+    {
+     "title": "ご紹介者さん\n※いない場合は「なし」とお書きください",
+     "type": 0,
+     "entry": 2140314639,
+     "required": true,
+     "options": []
+    },
+    {
+     "title": "お仕事の業種\n※月例会でお仕事として紹介（表記）されます\n※「⚫︎⚫︎業」や「⚫︎⚫︎コンサル」など端的にお願いします",
+     "type": 0,
+     "entry": 126729597,
+     "required": true,
+     "options": []
+    },
+    {
+     "title": "終了後17時15分〜懇親会を行います。\n場所『Monsoon Cafe』\n事前予約の為参加についてお教え下さい。\n予算目安5,500円程度（2時間飲み放題付き）",
+     "type": 2,
+     "entry": 1391975210,
+     "required": true,
+     "options": [
+      "参加します",
+      "今回は参加しません"
+     ]
+    },
+    {
+     "title": "facebookメッセンジャー等でご連絡させて頂いたり、テーブル毎にグループを組ませて頂く為、お友達申請を宜しくお願い致します。\n\n※申込みフォーム管理の関係上最低限\"藏本\"は必ずお願いします。\n登録の際申し込み完了の旨お教え頂けると大変助かります。\n\n【主催・藏本 陽】🚨必ず登録を🙇‍♂️\nhttps://www.facebook.com/yoh.kuramoto\n\n【幹事・清水 綾乃】\nhttps://www.facebook.com/ayano.shimizu.12\n\n【事務局長・結城浩美】\nhttps://www.facebook.com/hiromi.yuki999",
+     "type": 2,
+     "entry": 134764683,
+     "required": true,
+     "options": [
+      "すでにつながっています",
+      "上記にあるURLをタップして申請します"
+     ]
+    }
+   ]
+  },
   "https://forms.gle/WaWZxjjyKKf8JZ1FA": {
    "action": "https://docs.google.com/forms/d/e/1FAIpQLScvpFIW_dFc7qDZGYbUmIsuerhthlufptD4r3a01fOGBD27Bw/viewform",
    "fields": [
@@ -27102,6 +26184,611 @@
     }
    ]
   },
+  "https://forms.gle/df3P9MaHXTuzu3xJ6": {
+   "action": "https://docs.google.com/forms/d/e/1FAIpQLSfsnIY7d2e_95h3HLC2V4Pwi4-aZIIQ1IJNFLSbZjoPFze_wA/viewform",
+   "fields": [
+    {
+     "title": "姓",
+     "type": 0,
+     "entry": 1292887734,
+     "required": true,
+     "options": []
+    },
+    {
+     "title": "名",
+     "type": 0,
+     "entry": 574411941,
+     "required": true,
+     "options": []
+    },
+    {
+     "title": "お名前ふりがな",
+     "type": 0,
+     "entry": 2066127675,
+     "required": true,
+     "options": []
+    },
+    {
+     "title": "ニーズマッチID（不明の場合は不明と記入）",
+     "type": 0,
+     "entry": 1586096825,
+     "required": true,
+     "options": []
+    },
+    {
+     "title": "所属支部",
+     "type": 0,
+     "entry": 738876180,
+     "required": true,
+     "options": []
+    },
+    {
+     "title": "役員をされている支部",
+     "type": 0,
+     "entry": 1136437649,
+     "required": false,
+     "options": []
+    },
+    {
+     "title": "属性",
+     "type": 3,
+     "entry": 1320369078,
+     "required": true,
+     "options": [
+      "会員",
+      "準役員",
+      "主催",
+      "幹事",
+      "事務局長",
+      "本部・支部統括"
+     ]
+    },
+    {
+     "title": "お住まいの都道府県",
+     "type": 0,
+     "entry": 1308550082,
+     "required": false,
+     "options": []
+    },
+    {
+     "title": "参加日時",
+     "type": 4,
+     "entry": 1855069080,
+     "required": true,
+     "options": [
+      "10月28日（水）",
+      "11月25日（水）",
+      "12月23日（水）1周年！",
+      "1月27日（水）",
+      "2月24日（水）",
+      "3月24日（水）"
+     ]
+    },
+    {
+     "title": "お仕事の業種",
+     "type": 1,
+     "entry": 461026418,
+     "required": true,
+     "options": []
+    },
+    {
+     "title": "FacebookプロフィールURL",
+     "type": 1,
+     "entry": 1132415659,
+     "required": true,
+     "options": []
+    },
+    {
+     "title": "希望紹介先",
+     "type": 1,
+     "entry": 1191956304,
+     "required": true,
+     "options": []
+    },
+    {
+     "title": "【12月1周年企画！】主催&事務局長があなたのリクエストに応えます！演奏してほしい曲があったら教えてください！",
+     "type": 1,
+     "entry": 1863830040,
+     "required": false,
+     "options": []
+    },
+    {
+     "title": "コメントまたは質問",
+     "type": 1,
+     "entry": 1253981755,
+     "required": false,
+     "options": []
+    }
+   ]
+  },
+  "https://docs.google.com/forms/d/e/1FAIpQLSfrCXOjq0XUi_cn2eVcCaVU1xl9b2igcYr2jYBpK_iPLDxZiQ/viewform?usp=publish-editor": {
+   "action": "https://docs.google.com/forms/d/e/1FAIpQLSfrCXOjq0XUi_cn2eVcCaVU1xl9b2igcYr2jYBpK_iPLDxZiQ/viewform",
+   "fields": [
+    {
+     "title": "お名前",
+     "type": 0,
+     "entry": 324414896,
+     "required": true,
+     "options": []
+    },
+    {
+     "title": "ふりがな",
+     "type": 0,
+     "entry": 721371185,
+     "required": true,
+     "options": []
+    },
+    {
+     "title": "メールアドレス",
+     "type": 0,
+     "entry": 109673762,
+     "required": true,
+     "options": []
+    },
+    {
+     "title": "NM番号（ゲストの方はゲストとご記入ください）",
+     "type": 0,
+     "entry": 428711522,
+     "required": true,
+     "options": []
+    },
+    {
+     "title": "所属または運営支部（ゲストの方はゲストとご記入ください）",
+     "type": 0,
+     "entry": 953471971,
+     "required": true,
+     "options": []
+    },
+    {
+     "title": "属性",
+     "type": 2,
+     "entry": 1590412772,
+     "required": true,
+     "options": [
+      "主催",
+      "事務局",
+      "準会員",
+      "会員",
+      "ゲスト"
+     ]
+    },
+    {
+     "title": "参加希望日",
+     "type": 2,
+     "entry": 259285454,
+     "required": true,
+     "options": [
+      "9月30日（水）10:00〜12:00",
+      "10月28日（水）10:00〜12:00",
+      "11月25日（水）10:00〜12:00"
+     ]
+    },
+    {
+     "title": "例会後、近隣のお店で懇親会を予定しています。\nこちらへの出欠席のご記入をお願いします。\n※お店確定後、あらためてご連絡いたします",
+     "type": 2,
+     "entry": 43226505,
+     "required": true,
+     "options": [
+      "参加する",
+      "参加しない",
+      "検討中"
+     ]
+    },
+    {
+     "title": "Facebookアカウント",
+     "type": 0,
+     "entry": 244964608,
+     "required": true,
+     "options": []
+    },
+    {
+     "title": "業種または肩書",
+     "type": 0,
+     "entry": 1853315232,
+     "required": true,
+     "options": []
+    },
+    {
+     "title": "どんな方とつながりたいですか？",
+     "type": 0,
+     "entry": 1880940179,
+     "required": true,
+     "options": []
+    },
+    {
+     "title": "携帯番号（外部には出しません）",
+     "type": 0,
+     "entry": 1117170167,
+     "required": true,
+     "options": []
+    },
+    {
+     "title": "ニーズマッチ会員以外の方は下記よりお申し込みください。\n\nhttps://nm2014.jp/lists/",
+     "type": 0,
+     "entry": 342569124,
+     "required": false,
+     "options": []
+    }
+   ]
+  },
+  "https://forms.gle/HATobdNHhqWjg4HJ8": {
+   "action": "https://docs.google.com/forms/d/e/1FAIpQLSeHtwrI8BdsueAlJZ7pHRWtWZA4UN7COeYT5nn76HHTzGgP5A/viewform",
+   "fields": [
+    {
+     "title": "お名前フルネーム\n(こちらに記載のお名前を名簿にそのまま載せます)　山崎良光",
+     "type": 0,
+     "entry": 1517867947,
+     "required": true,
+     "options": []
+    },
+    {
+     "title": "ふりがな（フルネーム）",
+     "type": 0,
+     "entry": 1067793252,
+     "required": true,
+     "options": []
+    },
+    {
+     "title": "参加日をお選びください。",
+     "type": 2,
+     "entry": 1465407658,
+     "required": true,
+     "options": [
+      "2026/10/28(20名様限定）",
+      "2026/11/25(20名様限定）",
+      "2026/12/23(20名様限定）"
+     ]
+    },
+    {
+     "title": "懇親会の参加について",
+     "type": 2,
+     "entry": 244718729,
+     "required": true,
+     "options": [
+      "2026/10/28",
+      "2026/11/25",
+      "2026/12/23",
+      "不参加"
+     ]
+    },
+    {
+     "title": "所属支部または主催支部\n※「支部」は省いてください。\n※ゲストの方は「なし」とご記入ください。",
+     "type": 0,
+     "entry": 227045745,
+     "required": true,
+     "options": []
+    },
+    {
+     "title": "役職(主催、事務局、準役員、会員、ゲスト、幹事)",
+     "type": 3,
+     "entry": 213434871,
+     "required": true,
+     "options": [
+      "主催",
+      "事務局",
+      "準役員",
+      "会員",
+      "ゲスト",
+      "幹事"
+     ]
+    },
+    {
+     "title": "会員の方はニーズマッチID(数字のみ)をご記入ください。\nゲストの方はなしとご入力ください。",
+     "type": 0,
+     "entry": 1399687056,
+     "required": true,
+     "options": []
+    },
+    {
+     "title": "肩書き・業種",
+     "type": 0,
+     "entry": 355357609,
+     "required": true,
+     "options": []
+    },
+    {
+     "title": "ご紹介または協業したい方や業種をお聞かせください。",
+     "type": 0,
+     "entry": 1760234779,
+     "required": false,
+     "options": []
+    },
+    {
+     "title": "誕生日月をお教えください。",
+     "type": 0,
+     "entry": 1447672568,
+     "required": true,
+     "options": []
+    },
+    {
+     "title": "限定回答【ゲスト様 のみ回答】\n主催なかたにみさことの参加前1on1ミーティング(30分程度)はお済みですか？",
+     "type": 2,
+     "entry": 1000758697,
+     "required": false,
+     "options": [
+      "まだです（予定もまだ）",
+      "まだです（予定済み）",
+      "ミーティング済み"
+     ]
+    },
+    {
+     "title": "限定回答【ゲスト様 ＆ 初参加の他支部会員様のみ回答】\n\nfacebookのアカウントURLをこちらに添付してください。",
+     "type": 0,
+     "entry": 754617060,
+     "required": false,
+     "options": []
+    },
+    {
+     "title": "連絡事項等あればこちらにご記入ください",
+     "type": 0,
+     "entry": 1738829513,
+     "required": false,
+     "options": []
+    },
+    {
+     "title": "～参加にあたってのお願いと禁止事項～",
+     "type": 2,
+     "entry": 32904754,
+     "required": true,
+     "options": [
+      "同意する"
+     ]
+    }
+   ]
+  },
+  "https://forms.gle/ecPA4H5bTutUro288": {
+   "action": "https://docs.google.com/forms/d/e/1FAIpQLScOwTIGkDdDzKuaOuGAQApPrc2gD0Dly7XQ4aMmu9wFwyxdwA/viewform",
+   "fields": [
+    {
+     "title": "参加日時",
+     "type": 4,
+     "entry": 165953570,
+     "required": true,
+     "options": [
+      "2026年8月26日",
+      "2026年9月30日※第5週目開催",
+      "2026年10月28日",
+      "2026年11月25日",
+      "2026年12月23日"
+     ]
+    },
+    {
+     "title": "交流会",
+     "type": 2,
+     "entry": 388962177,
+     "required": true,
+     "options": [
+      "参加します",
+      "見送ります",
+      "未定です"
+     ]
+    },
+    {
+     "title": "会員ID",
+     "type": 0,
+     "entry": 128878639,
+     "required": true,
+     "options": []
+    },
+    {
+     "title": "参加者のお名前をご記入ください。",
+     "type": 0,
+     "entry": 357244175,
+     "required": true,
+     "options": []
+    },
+    {
+     "title": "お名前のふりがなをご記入ください。",
+     "type": 0,
+     "entry": 1391199197,
+     "required": true,
+     "options": []
+    },
+    {
+     "title": "当日呼んでもらいたいニックネーム",
+     "type": 0,
+     "entry": 1744756479,
+     "required": true,
+     "options": []
+    },
+    {
+     "title": "お住まいの地域",
+     "type": 0,
+     "entry": 1991430045,
+     "required": true,
+     "options": []
+    },
+    {
+     "title": "所属or運営支部",
+     "type": 0,
+     "entry": 1792826100,
+     "required": true,
+     "options": []
+    },
+    {
+     "title": "属性",
+     "type": 4,
+     "entry": 520514585,
+     "required": true,
+     "options": [
+      "主催",
+      "幹事",
+      "事務局長",
+      "準役員",
+      "会員",
+      "ゲスト(申込方法が異なります)"
+     ]
+    },
+    {
+     "title": "連絡先",
+     "type": 0,
+     "entry": 1804980065,
+     "required": true,
+     "options": []
+    },
+    {
+     "title": "FacebookプロフィールURL",
+     "type": 0,
+     "entry": 1615917088,
+     "required": true,
+     "options": []
+    },
+    {
+     "title": "お仕事の業種",
+     "type": 0,
+     "entry": 581815641,
+     "required": true,
+     "options": []
+    },
+    {
+     "title": "コメントまたはご質問",
+     "type": 1,
+     "entry": 2013253828,
+     "required": false,
+     "options": []
+    }
+   ]
+  },
+  "https://forms.gle/fsXdMr1oMw45YgeG9": {
+   "action": "https://docs.google.com/forms/d/e/1FAIpQLSf9ldn5RWG3dci-_N9gcq-nDTW_jn822SPURBsY_pC2zBF12g/viewform",
+   "fields": [
+    {
+     "title": "姓",
+     "type": 0,
+     "entry": 2092238618,
+     "required": true,
+     "options": []
+    },
+    {
+     "title": "名",
+     "type": 0,
+     "entry": 1015934920,
+     "required": true,
+     "options": []
+    },
+    {
+     "title": "生年月日（半角数字8文字にて　例:1990年1月1日→19900101）",
+     "type": 0,
+     "entry": 1494665618,
+     "required": false,
+     "options": []
+    },
+    {
+     "title": "ご連絡先電話番号",
+     "type": 0,
+     "entry": 479301265,
+     "required": true,
+     "options": []
+    },
+    {
+     "title": "参加希望日（複数選択可）",
+     "type": 4,
+     "entry": 1753222212,
+     "required": true,
+     "options": [
+      "10/28（水）15時〜17時",
+      "11/25（水）15時〜17時",
+      "12/23（水）15時〜17時"
+     ]
+    },
+    {
+     "title": "終了後の懇親会に参加されますか？",
+     "type": 2,
+     "entry": 588393791,
+     "required": true,
+     "options": [
+      "はい",
+      "いいえ"
+     ]
+    },
+    {
+     "title": "ニーズマッチID（ゲストの方は「なし」とお書きください）",
+     "type": 0,
+     "entry": 2109138769,
+     "required": true,
+     "options": []
+    },
+    {
+     "title": "属性",
+     "type": 2,
+     "entry": 123495551,
+     "required": true,
+     "options": [
+      "主催",
+      "幹事",
+      "事務局長",
+      "準役員",
+      "会員",
+      "ゲスト"
+     ]
+    },
+    {
+     "title": "所属支部（ゲスト・見学の方はなしとご記入ください）",
+     "type": 0,
+     "entry": 2084808214,
+     "required": true,
+     "options": []
+    },
+    {
+     "title": "役員をしている支部があれば（支部名をご記入ください）",
+     "type": 0,
+     "entry": 1616203977,
+     "required": false,
+     "options": []
+    },
+    {
+     "title": "紹介者（ゲストの方のみ）",
+     "type": 0,
+     "entry": 1075156171,
+     "required": false,
+     "options": []
+    },
+    {
+     "title": "会社名",
+     "type": 0,
+     "entry": 997034502,
+     "required": true,
+     "options": []
+    },
+    {
+     "title": "業種",
+     "type": 0,
+     "entry": 797908279,
+     "required": true,
+     "options": []
+    },
+    {
+     "title": "紹介希望先（理想の顧客や）協業可能な業種など",
+     "type": 1,
+     "entry": 1470933616,
+     "required": true,
+     "options": []
+    },
+    {
+     "title": "Facebook URL（なしの場合はなしとお書きください）",
+     "type": 0,
+     "entry": 2014206648,
+     "required": true,
+     "options": []
+    },
+    {
+     "title": "会場に10分前までに到着お願いします！",
+     "type": 4,
+     "entry": 985166967,
+     "required": true,
+     "options": [
+      "はい、了解しました！"
+     ]
+    },
+    {
+     "title": "備考欄",
+     "type": 1,
+     "entry": 1589466793,
+     "required": false,
+     "options": []
+    }
+   ]
+  },
   "https://forms.gle/gXJZXpwTimRizCc89": {
    "action": "https://docs.google.com/forms/d/e/1FAIpQLSe3w2pYCsS4FR7oCsBgqGZsbQHyhdl-y_LvuoTUDJj95tdg9Q/viewform",
    "fields": [
@@ -27171,6 +26858,137 @@
      "options": [
       "参加する（5千円当日現金払い）",
       "参加しない"
+     ]
+    }
+   ]
+  },
+  "https://docs.google.com/forms/d/e/1FAIpQLScDDYmzvcsx6nLw49gXbTJeTuDIAwpjnHcFEJulv9ZAIwQdTA/viewform": {
+   "action": "https://docs.google.com/forms/d/e/1FAIpQLScDDYmzvcsx6nLw49gXbTJeTuDIAwpjnHcFEJulv9ZAIwQdTA/viewform",
+   "fields": [
+    {
+     "title": "参加希望日",
+     "type": 2,
+     "entry": 261987034,
+     "required": true,
+     "options": [
+      "10月28日",
+      "11月25日",
+      "12月23日"
+     ]
+    },
+    {
+     "title": "会員ID（ゲストの方は無しとご入力ください）\n※NM-以下を記入してください",
+     "type": 0,
+     "entry": 197226963,
+     "required": true,
+     "options": []
+    },
+    {
+     "title": "参加者の苗字をご記入ください",
+     "type": 0,
+     "entry": 333516189,
+     "required": true,
+     "options": []
+    },
+    {
+     "title": "参加者の名前をご記入ください",
+     "type": 0,
+     "entry": 328940002,
+     "required": true,
+     "options": []
+    },
+    {
+     "title": "参加者のフリガナをご記入ください",
+     "type": 0,
+     "entry": 1661023359,
+     "required": true,
+     "options": []
+    },
+    {
+     "title": "他支部会員は「その他」を選択し支部名をご入力ください",
+     "type": 2,
+     "entry": 116382995,
+     "required": true,
+     "options": [
+      "あぐれっ支部",
+      "おおきに支部",
+      "ストレート支部",
+      "商売繁盛支部",
+      "和47支部",
+      "ももたろう支部",
+      "ライジングサン支部",
+      "pinkelephant支部",
+      "キャロット支部",
+      "ザクザク支部",
+      "ゲスト"
+     ]
+    },
+    {
+     "title": "属性",
+     "type": 2,
+     "entry": 449784618,
+     "required": true,
+     "options": [
+      "主催",
+      "幹事",
+      "事務局長",
+      "準役員",
+      "会員",
+      "ゲスト"
+     ]
+    },
+    {
+     "title": "業種",
+     "type": 1,
+     "entry": 494764299,
+     "required": true,
+     "options": []
+    },
+    {
+     "title": "希望提携先",
+     "type": 1,
+     "entry": 1623404759,
+     "required": true,
+     "options": []
+    },
+    {
+     "title": "【初参加者】ゲストの方へ　ご紹介者をご記入ください",
+     "type": 0,
+     "entry": 1081290584,
+     "required": false,
+     "options": []
+    },
+    {
+     "title": "懇親会",
+     "type": 2,
+     "entry": 610985906,
+     "required": false,
+     "options": [
+      "参加",
+      "不参加"
+     ]
+    },
+    {
+     "title": "生年月日",
+     "type": 9,
+     "entry": 1069149061,
+     "required": false,
+     "options": []
+    },
+    {
+     "title": "facebookリンクURL",
+     "type": 0,
+     "entry": 1084105869,
+     "required": false,
+     "options": []
+    },
+    {
+     "title": "≪お願いと禁止事項≫",
+     "type": 4,
+     "entry": 103115778,
+     "required": true,
+     "options": [
+      "授記禁止事項を確認しました"
      ]
     }
    ]
